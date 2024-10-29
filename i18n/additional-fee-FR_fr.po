@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-06-05 16:57+0530\n"
+"PO-Revision-Date: 2018-06-05 16:57+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;__e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: additional-fee.php:66 additional-fee.php:77 additional-fee.php:85
+msgid "Additional Fee"
+msgstr "Frais supplémentaires"
+
+#: additional-fee.php:83
+msgid "Title"
+msgstr "Titre"
+
+#: additional-fee.php:89
+msgid "Amount"
+msgstr "Montant"
+
+#: additional-fee.php:92
+msgid "Enter fee, put negative value for discount."
+msgstr "Entrez les frais, mettez une valeur négative pour la réduction."
+
+#: additional-fee.php:96
+msgid "Min Cart Total"
+msgstr "Panier min total"
+
+#: additional-fee.php:98
+msgid "Apply fee only if cart total exceeds this value."
+msgstr ""
+"Appliquez des frais uniquement si le total du panier dépasse cette valeur."
+
+#: additional-fee.php:102
+msgid "Max Cart Total"
+msgstr "Total du panier max"
+
+#: additional-fee.php:104
+msgid "Apply fee only if cart total below this value."
+msgstr ""
+"Appliquez des frais seulement si le total du panier est inférieur à cette "
+"valeur."
+
+#: additional-fee.php:120
+msgid "Settings"
+msgstr "Paramètres"
